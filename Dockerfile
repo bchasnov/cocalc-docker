@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM nvidia:11.0-cudnn8-devel-ubuntu18.04-rc
 
 MAINTAINER William Stein <wstein@sagemath.com>
 
